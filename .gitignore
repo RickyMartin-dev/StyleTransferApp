@@ -7,6 +7,16 @@ __pycache__/
 *.so
 *.t7
 .t7
+/backend/models/
+/backend/models/candy.t7
+/backend/models/composition_vii.t7
+/backend/models/feathers.t7
+/backend/models/la_muse.t7
+/backend/models/mosaic.t7
+/backend/models/starry_night.t7
+/backend/models/the_scream.t7
+/backend/models/the_wave.t7
+/backend/models/udnie.t7
 
 # Distribution / packaging
 .Python
@@ -27,6 +37,10 @@ share/python-wheels/
 .installed.cfg
 *.egg
 MANIFEST
+
+./models
+/models
+backend/models/
 
 # PyInstaller
 #  Usually these files are written by a python script from a template
